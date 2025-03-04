@@ -53,7 +53,7 @@ After installing the application into the AppDir we need to verify that it works
 execute it and manually check that the application windows shows and all the components are visible and functional.
 
 If the application fails to run or doesn't shows a window when executed you will need to investigate and solve
-the issue before continuing. Notice that applications must be relocatable in order to be put inside and AppImage.
+the issue before continuing. Notice that applications must be relocatable in order to be put inside an AppImage.
 
 .. code-block:: shell
 
